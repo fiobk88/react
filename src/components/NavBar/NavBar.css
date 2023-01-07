@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #dbe2ef;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+.navitem {
+    margin: 15px;
+    color: #676767;
+    text-decoration: none;
+
+}
