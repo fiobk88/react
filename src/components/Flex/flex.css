@@ -1,7 +1,7 @@
-.flexContainer {
+.flex {
     margin: 50px;
     max-width: 1200px;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-content: center;
     display: flex;
     flex-wrap: wrap;
@@ -12,14 +12,4 @@
 .image {
     height: 150px;
     width: auto;
-}
-
-.buttonBuy {
-    color: blueviolet;
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
-    margin: 20px;
-
-
 }

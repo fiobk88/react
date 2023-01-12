@@ -6,7 +6,6 @@ import "./NavBar.css";
 
 
 
-
 function Navbar() {
 	return (
 		<div>
